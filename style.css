@@ -1,0 +1,19 @@
+body {
+    background: rgb(242,252,210);
+    background: radial-gradient(circle, rgba(242,252,210,1) 0%, rgba(242,252,210,1) 29%, rgba(188,236,229,1) 100%);
+}
+
+#grid {
+    margin: auto;
+    width: 900px;
+    height: 300px;
+}
+
+#grid img {
+    padding: 5px;
+    width: 180px;
+    height: 180px;
+}
+
+
+
